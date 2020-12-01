@@ -1,6 +1,6 @@
 # Advent of Code 2020
 
-_This is a project of the [Advent of Code](https://adventofcode.com) of 2020. 31 problems solved by code_
+_This is a project for the [Advent of Code](https://adventofcode.com) of 2020. 31 problems solved by code_
 
 ### Installation 🔧
 
@@ -10,9 +10,7 @@ _You can clone this project doing:_
 git clone https://github.com/mark-doblefilo/AdventOfCode2020
 ```
 
-## Built with 🛠️
-
-_Menciona las herramientas que utilizaste para crear tu proyecto_
+## Built with 🛠
 
 * [Python3](https://www.python.org/doc/) - Programming language used
 
