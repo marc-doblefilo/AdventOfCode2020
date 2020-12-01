@@ -20,6 +20,4 @@ You can see all the problems here [Advent of Code](https://adventofcode.com)
 
 ## Author ✒️
 
-_Menciona a todos aquellos que ayudaron a levantar el proyecto desde sus inicios_
-
 * **Marc Rodriguez** [GitHub](https://github.com/mark-doblefilo) [Twitter](https://twitter.com/mark_doblefilo)
